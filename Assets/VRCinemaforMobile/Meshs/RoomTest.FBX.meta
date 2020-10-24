@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: ac161ff8aa030f14790645728846eea2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door_Frame
+    100002: //RootNode
+    100004: Theater_BackLight
+    100006: Theater_Ceiling
+    100008: Theater_CeilingLine
+    100010: Theater_Floor
+    100012: Theater_FrontGlow
+    100014: Theater_FrontWall
+    100016: Theater_Lamp00
+    100018: Theater_Lamp01
+    100020: Theater_Lamp02
+    100022: Theater_Lamp03
+    100024: Theater_Lamp04
+    100026: Theater_Lamp05
+    100028: Theater_Lamp06
+    100030: Theater_Lamp07
+    100032: Theater_Lamp08
+    100034: Theater_Lamp09
+    100036: Theater_Stairs
+    100038: Theater_StairsGuide
+    100040: Theater_Wall
+    400000: Door_Frame
+    400002: //RootNode
+    400004: Theater_BackLight
+    400006: Theater_Ceiling
+    400008: Theater_CeilingLine
+    400010: Theater_Floor
+    400012: Theater_FrontGlow
+    400014: Theater_FrontWall
+    400016: Theater_Lamp00
+    400018: Theater_Lamp01
+    400020: Theater_Lamp02
+    400022: Theater_Lamp03
+    400024: Theater_Lamp04
+    400026: Theater_Lamp05
+    400028: Theater_Lamp06
+    400030: Theater_Lamp07
+    400032: Theater_Lamp08
+    400034: Theater_Lamp09
+    400036: Theater_Stairs
+    400038: Theater_StairsGuide
+    400040: Theater_Wall
+    2300000: Door_Frame
+    2300002: Theater_BackLight
+    2300004: Theater_Ceiling
+    2300006: Theater_CeilingLine
+    2300008: Theater_Floor
+    2300010: Theater_FrontGlow
+    2300012: Theater_FrontWall
+    2300014: Theater_Lamp00
+    2300016: Theater_Lamp01
+    2300018: Theater_Lamp02
+    2300020: Theater_Lamp03
+    2300022: Theater_Lamp04
+    2300024: Theater_Lamp05
+    2300026: Theater_Lamp06
+    2300028: Theater_Lamp07
+    2300030: Theater_Lamp08
+    2300032: Theater_Lamp09
+    2300034: Theater_Stairs
+    2300036: Theater_StairsGuide
+    2300038: Theater_Wall
+    3300000: Door_Frame
+    3300002: Theater_BackLight
+    3300004: Theater_Ceiling
+    3300006: Theater_CeilingLine
+    3300008: Theater_Floor
+    3300010: Theater_FrontGlow
+    3300012: Theater_FrontWall
+    3300014: Theater_Lamp00
+    3300016: Theater_Lamp01
+    3300018: Theater_Lamp02
+    3300020: Theater_Lamp03
+    3300022: Theater_Lamp04
+    3300024: Theater_Lamp05
+    3300026: Theater_Lamp06
+    3300028: Theater_Lamp07
+    3300030: Theater_Lamp08
+    3300032: Theater_Lamp09
+    3300034: Theater_Stairs
+    3300036: Theater_StairsGuide
+    3300038: Theater_Wall
+    4300000: Theater_Stairs
+    4300002: Theater_Lamp00
+    4300004: Theater_Wall
+    4300006: Theater_Floor
+    4300008: Theater_FrontWall
+    4300010: Theater_Ceiling
+    4300012: Theater_FrontGlow
+    4300014: Theater_CeilingLine
+    4300016: Theater_BackLight
+    4300018: Door_Frame
+    4300020: Theater_Lamp01
+    4300022: Theater_Lamp02
+    4300024: Theater_Lamp03
+    4300026: Theater_Lamp04
+    4300028: Theater_Lamp05
+    4300030: Theater_Lamp06
+    4300032: Theater_Lamp07
+    4300034: Theater_Lamp08
+    4300036: Theater_Lamp09
+    4300038: Theater_StairsGuide
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

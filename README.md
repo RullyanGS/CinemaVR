@@ -1,4 +1,4 @@
-# Projeto de um aplicativo de Cinema em Realidade Virtual
+# Projeto CinemaVR
 
 ![cinema](https://user-images.githubusercontent.com/28649769/98034838-60e96180-1df6-11eb-8e59-09ad3dd2a3b9.png)
 
